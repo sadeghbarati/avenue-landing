@@ -7,10 +7,10 @@
 /*
 */
 
-.navbar .d-sm-block svg g#group {
+.navbar g#Group {
 	fill: white;
 }
 
-.navbar.navbar-toggled-show .d-sm-block svg g#group {
+.navbar.navbar-toggled-show g#Group {
 	fill: black;
 }

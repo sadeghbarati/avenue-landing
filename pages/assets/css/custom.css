@@ -6,3 +6,11 @@
 /*  in your page by adding a reference to assets/css/custom.css in the head of each page.
 /*
 */
+
+.navbar g#Group {
+	fill: white;
+}
+
+.navbar.navbar-toggled-show g#Group {
+	fill: black;
+}
