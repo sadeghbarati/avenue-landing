@@ -7,10 +7,10 @@
 /*
 */
 
-.navbar .d-sm-none svg g#group {
+.navbar .d-sm-block svg g#group {
 	fill: white;
 }
 
-.navbar.navbar-toggled-show .d-sm-none svg g#group {
+.navbar.navbar-toggled-show .d-sm-block svg g#group {
 	fill: black;
 }
